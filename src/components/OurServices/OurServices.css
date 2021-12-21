@@ -1,0 +1,24 @@
+.services-container {
+  margin-top: 100px;
+  padding: 100px 0px;
+}
+.our-services-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+
+.our-services-container-bg {
+  background-color: aliceblue;
+}
+
+@media only screen and (max-width: 688px) {
+  .our-services-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+  .our-services-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
