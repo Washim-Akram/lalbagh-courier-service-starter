@@ -10,7 +10,7 @@ const NavigationBar = () => {
     return (
         <div>
             <div className="">
-            <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">
 
                     <Link to="/home" className = "navbar-brand">Hitup<span className = "text-primary">.</span></Link>
@@ -24,33 +24,39 @@ const NavigationBar = () => {
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
                             <Link to="/home" className="nav-item">
-                                <li>Home</li>
+                                <li>HOME</li>
                             </Link>
 
                             <Link to="/about" className="nav-item">
-                                <li>About us</li>
+                                <li>ABOUT</li>
                             </Link>
 
-                            <Link to="/ourServices" className="nav-item">
-                                <li>Services</li>
+                            <HashLink className="nav-item" to="/home#ourServices">SERVICES</HashLink>
+
+                            <HashLink className='nav-item' to="/home#trainer">TRAINER</HashLink>
+
+                            <HashLink className='nav-item' to="/home#membership">MEMBERSHIP</HashLink>
+
+                            <Link to="/packages" className="nav-item">
+                                <li>PACKAGES</li>
                             </Link>
 
                             <Link to="/contact" className="nav-item">
-                                <li>Contact us</li>
+                                <li>CONTACT</li>
                             </Link>
-
-                            <HashLink className='nav-item' to="/home#trainer">Trainer</HashLink>
-
-                            <HashLink className='nav-item' to="/home#membership">Membership</HashLink>
-
-                            {
-                                user?.email ? <button onClick={logOut}>Logout</button> :
-                                <Link  className='nav-item' to="/login">Login</Link>
-                            }
-
                         </ul>
 
-                            <span className="navbar-text">
+                            <Link to="/registration" className="nav-item">
+                                <li>REGISTRATION</li>
+                            </Link>
+
+                            {user?.displayName ?
+                            <button onClick={logOut} type="button" className="btn btn-primary btn-sm me-3">Logout</button>
+                            :
+                            <Link to="/login" className='nav-item'>LOGIN</Link>}
+
+                            <span className="navbar-text text-success fst-italic">
+                                SIGNED IN AS : {user?.displayName}
                             </span>
                     </div>
                 </div>

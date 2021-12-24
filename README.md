@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Welcome to Hitup Gym | Build Your Body.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## "YOUR SUCCESS IS OUR PASSION"
 
-## Available Scripts
+### Hitup Gym Live Website Link :
 
-In the project directory, you can run:
+###
 
-### `npm start`
+### About Hitup Gym :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**We have found the best workouts from around the world and put them in one database that you can search by days per week, type of program, and much more! Many workouts accomplish different goals at the same time. For example, a muscle building workout will almost always help build strength at the same time. Choose the goal that is MOST important to you, and the workouts that are shown will be geared more toward your chosen goal. A Split Body part Routine means that you work different body parts on different days. For example, one workout might have you work biceps and chest on one day, then triceps and back on a different day. This is the most common type of workout program.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Most Attractive, Wanted Features and Functionality Of Our Website :
 
-### `npm test`
+**Instructional Videos**
+_Fitness Care trainers provide our printable calendars, thats give you the means to stay organized & motivated through each program. Cross of one day at a time and see how far you've come!_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Training Calendars 'Come Soon'**
+_No training program is complete solution without a great meal plan. Our Fitness care trainers provide a shopping lists, recipes, and even a great examples of weekly meal plans so._
 
-### `npm run build`
+**Free WiFi & Mobile App**
+_Choose your perfect work-out plan and track your workout with the press of a mobile app button, when ever u want. Finess Care up-coming mobile apps will make fitness fit in palm hand._
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Community Support**
+_Find friends and like-minded fitness buffs on BodySpace! With an army of supporters behind you, you'll never feel like you're training alone. Instructions to every exercise so you never walk._
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Gym Instruments**
+_We are supplying all type of Gym instruments in very reasonable price. Please collect any Gym instruments as your need for your friends and family_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Food Supplies**
+_We have a very nice collection of hygienic food, juice and so on to supply by your demand. Your fitness demand foods are available for here._
