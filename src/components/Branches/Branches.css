@@ -1,12 +1,12 @@
-.membership-bg {
+.branches-bg {
   background-color: whitesmoke;
 }
-.membership-container {
-  margin-top: 150px;
-  margin-bottom: 100px;
+.branches-container {
+  margin-top: 100px;
+  /* margin-bottom: 100px; */
   padding: 100px 0px;
 }
-.membership-card {
+.branches-card {
   border: none;
   box-shadow: 10px 10px 40px gray;
   border-radius: 20px;

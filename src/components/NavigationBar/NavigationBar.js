@@ -13,14 +13,14 @@ const NavigationBar = () => {
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">
 
-                    <Link to="/home" className = "navbar-brand">Hitup<span className = "text-primary">.</span></Link>
+                    <Link to="/home" className = "navbar-brand">Lalbagh<span className = "text-primary">.</span></Link>
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
 
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                        
+
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
                             <Link to="/home" className="nav-item">
@@ -33,13 +33,9 @@ const NavigationBar = () => {
 
                             <HashLink className="nav-item" to="/home#ourServices">SERVICES</HashLink>
 
-                            <HashLink className='nav-item' to="/home#trainer">TRAINER</HashLink>
+                            <HashLink className='nav-item' to="/home#branches">BRANCHES</HashLink>
 
-                            <HashLink className='nav-item' to="/home#membership">MEMBERSHIP</HashLink>
-
-                            <Link to="/packages" className="nav-item">
-                                <li>PACKAGES</li>
-                            </Link>
+                            <HashLink className='nav-item' to="/home#delivery">DELIVERY</HashLink>
 
                             <Link to="/contact" className="nav-item">
                                 <li>CONTACT</li>
@@ -48,6 +44,14 @@ const NavigationBar = () => {
 
                             <Link to="/registration" className="nav-item">
                                 <li>REGISTRATION</li>
+                            </Link>
+
+                            <Link to="/addService" className='nav-item'>
+                                <li>Add Service</li>
+                            </Link>
+
+                            <Link to="/manageServices" className='nav-item'>
+                                <li>Manage Services</li>
                             </Link>
 
                             {user?.displayName ?

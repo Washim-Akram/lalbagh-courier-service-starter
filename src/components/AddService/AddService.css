@@ -1,0 +1,22 @@
+.add-service-section-bg {
+  background-color: lightcyan;
+}
+.add-service-section-container {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.add-service-section-title {
+  padding-bottom: 20px;
+}
+.add-service-section-container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-service-section-container form input,
+textarea {
+  width: 50%;
+  margin-bottom: 10px;
+}

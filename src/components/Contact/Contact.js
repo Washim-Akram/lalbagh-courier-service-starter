@@ -43,9 +43,9 @@ const Contact = () => {
                             </div>
                            <div>
                            <h2>Our Location</h2>
-                            <p className = "text-secondary">160/1 Azimpur-road, Azimpur, Dhaka</p>
-                            <p className = "text-secondary"> Madina Tower, 7th Floor, Azimpur <br />
-                            Dhaka-1205, Bangladesh.</p>
+                            <p className = "text-secondary">235 J.N Shah Road, Amligola, Dhaka</p>
+                            <p className = "text-secondary">Bismillah Tower, 7th Floor, Lalbagh <br />
+                            Dhaka-1211, Bangladesh.</p>
                            </div>
                         </div>
 

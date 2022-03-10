@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Fitness",
-    "price": "1000",
-    "description": "Experts define physical fitness as “one's ability to execute daily activities with optimal performance, endurance, and strength with the management of disease, fatigue, and stress and reduced sedentary behavior.",
-    "img": "https://i.ibb.co/MNbKcK8/finness.jpg"
+    "name": "Document Service",
+    "price": "100",
+    "description": "Under this service we are providing document delivery for both corporate and retail customers nationwide. Envelopes weighing between 01 to 200 grams are being serviced. These documents are being distributed vide 600+ outlets across Bangladesh.",
+    "img": "https://i.ibb.co/5WKw1kG/service-1.jpg"
   },
   {
     "id": 2,
-    "name": "Yoga",
-    "price": "1000",
-    "description": "It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe.",
-    "img": "https://i.ibb.co/g7YcJwv/yoga.jpg"
+    "name": "Mobile & ICT Equipment Service",
+    "price": "120",
+    "description": "These are regular parcel services limited to the mobile and ICT importers/distributors/manufacturers and vendors. who seek the parcel delivery services from us.",
+    "img": "https://i.ibb.co/SJpFVmw/service-2.jpg"
   },
   {
     "id": 3,
-    "name": "Health",
-    "price": "1000",
-    "description": "Good health is central to handling stress and living a longer, more active life. In this article, we explain the meaning of good health, the types of health a person needs to consider, and how to preserve good health.",
-    "img": "https://i.ibb.co/KqM4pkW/health.jpg"
+    "name": "Value Declared Service",
+    "price": "150",
+    "description": "Under this service, through our countrywide 110 branches and agency offices, we collect the value declared amount against “Ecommerce and Condition Parcel Products",
+    "img": "https://i.ibb.co/DLhJ1kX/service-3.jpg"
   },
   {
     "id": 4,
-    "name": "Dance",
-    "price": "1500",
-    "description": "Dance is a powerful impulse, but the art of dance is that impulse channeled by skillful performers into something that becomes intensely expressive and that may delight spectators who feel no wish to dance themselves.",
-    "img": "https://i.ibb.co/Qb0hCW4/dance.jpg"
+    "name": "Super Express Service",
+    "price": "180",
+    "description": "These are Extra urgent delivery documents in the company's list of enveloped services categories, under the 'Super Express Service'. The Booking rate for each document is BDT 120 / - only.",
+    "img": "https://i.ibb.co/GpsWF2H/service-4.jpg"
   },
   {
     "id": 5,
-    "name": "Weight Loss",
-    "price": "1000",
-    "description": "Weight loss comes down to burning more calories than you take in. You can do that by reducing extra calories from food and beverages, and increasing calories burned through physical activity.",
-    "img": "https://i.ibb.co/jbL6gFJ/weight-loss-4232016-1280.jpg"
+    "name": "Parcel Service",
+    "price": "100",
+    "description": "Under this service, through our countrywide 110 branches and agency offices, we collect the value declared amount against “Ecommerce and Condition Parcel Products",
+    "img": "https://i.ibb.co/vJZc7YK/service-5.jpg"
   },
   {
     "id": 6,
-    "name": "Energy",
-    "price": "1000",
-    "description": "the capacity for doing work. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear, or other various forms. ... After it has been transferred, energy is always designated according to its nature.",
-    "img": "https://i.ibb.co/V9jVgkT/energy.jpg"
+    "name": "Electronics Equipment Service",
+    "price": "120",
+    "description": "These are regular parcel services limited to the mobile and ICT importers/distributors/manufacturers and vendors. who seek the parcel delivery services from us.",
+    "img": "https://i.ibb.co/qMRgR1v/service-6.jpg"
   }
 ]

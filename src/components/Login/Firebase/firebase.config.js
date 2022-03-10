@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC2Np_I2utPIOsp1sYdS7BpeOLtYlerAxM",
-    authDomain: "hitup-build-your-body.firebaseapp.com",
-    projectId: "hitup-build-your-body",
-    storageBucket: "hitup-build-your-body.appspot.com",
-    messagingSenderId: "486024443557",
-    appId: "1:486024443557:web:b44436884e73e5afd17f4c"
+  apiKey: "AIzaSyA7ZQUVg0B5eomU0jvCDIb9ziYYA3tGIVM",
+  authDomain: "lalbagh-courier-service.firebaseapp.com",
+  projectId: "lalbagh-courier-service",
+  storageBucket: "lalbagh-courier-service.appspot.com",
+  messagingSenderId: "507575634178",
+  appId: "1:507575634178:web:54637f4b51f9032a991a1b"
   };
   export default firebaseConfig;

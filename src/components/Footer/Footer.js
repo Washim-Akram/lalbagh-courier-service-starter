@@ -17,10 +17,10 @@ const Footer = () => {
       <div className="footer-container">
         <div className="container">
           <div className="row">
-           
+
             <div className="col-md-5 col-12">
               <div className="">
-              <h1>Hitup<span className = "text-warning">.</span></h1>
+              <h1>Lalbagh Courier Service<span className = "text-warning">.</span></h1>
                 <div className="phone d-flex align-items-center">
                   <div className="footer-phone-icon me-3">
                     <FontAwesomeIcon icon={faPhoneVolume} />
@@ -42,7 +42,7 @@ const Footer = () => {
                   </div>
                 </div>
                 <p className="mt-3">
-                  <small>Hitup- Build Your Body. © All rights reserved.</small>
+                  <small>Lalbagh Courier Service. © All rights reserved.</small>
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ const Footer = () => {
               <div className="text-start">
                 <p className="mt-4 ">
                   <small>
-                  Hitup Gym is a popular and faithful Gym at Dhaka in Bangladesh. Our slogan is "Build Your Body". To stay fit and healty GYM is the finest and best way. Because in our Gym under a roof you will get huge collection of gym instruments, Experienced Trainer, Heath Consultent, necessery suppliments and so on. SILVER GYM is fully Air Conditining
+                  Lalbagh Courier Service (Pvt.) Limited has been playing a leading role in these service activities of courier and parcel since its inception in 1983. The Founder, Chairman Imamul Kabir Shanto, has led the effective development and establishment of courier service in Bangladesh.
                   </small>
                 </p>
                 <div className="icons-container d-flex text-center ">
@@ -80,7 +80,7 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>

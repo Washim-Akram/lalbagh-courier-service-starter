@@ -1,5 +1,5 @@
 .navbar-brand {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -7,7 +7,7 @@
 
 .nav-item {
   list-style: none;
-  margin-right: 15px;
+  margin-right: 5px;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;

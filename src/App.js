@@ -4,17 +4,19 @@ import {
 } from "react-router-dom";
 import './App.css';
 import About from './components/About/About';
+import AddService from "./components/AddService/AddService";
 import Contact from './components/Contact/Contact';
 import Enroll from "./components/Enroll/Enroll";
 import Footer from "./components/Footer/Footer";
 import Home from './components/Home/Home';
 import Login from "./components/Login/Login/Login";
 import PrivateRoute from "./components/Login/PrivateRoute/PrivateRoute";
+import ManageServices from "./components/ManageServices/ManageServices";
 import NavigationBar from "./components/NavigationBar/NavigationBar";
 import NotFound from './components/NotFound/NotFound';
 import OurServices from "./components/OurServices/OurServices";
-import Packages from "./components/Packages/Packages";
 import Registration from "./components/Registration/Registration";
+import UpdateService from "./components/UpdateService/UpdateService";
 import AuthProvider from "./contexts/AuthProvider";
 
 
@@ -46,12 +48,6 @@ function App() {
                 <Enroll></Enroll>
               </PrivateRoute>
 
-
-              <PrivateRoute path="/packages">
-                <Packages></Packages>
-              </PrivateRoute>
-
-
               <Route exact path = "/about">
                 <About></About>
               </Route>
@@ -64,10 +60,22 @@ function App() {
                 <OurServices></OurServices>
               </Route>
 
+              <PrivateRoute exact path="/addService">
+                <AddService></AddService>
+              </PrivateRoute>
+
+              <PrivateRoute exact path="/manageServices">
+                <ManageServices></ManageServices>
+              </PrivateRoute>
+
+              <Route exact path="/services/update/:id">
+                <UpdateService></UpdateService>
+              </Route>
+
               <Route path = "*">
                 <NotFound></NotFound>
               </Route>
-              
+
             </Switch>
             <Footer></Footer>
           </Router>

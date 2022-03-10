@@ -1,31 +1,21 @@
-# Welcome to Hitup Gym | Build Your Body.
+# Welcome to Lalbagh Courier Service.
 
-## "YOUR SUCCESS IS OUR PASSION"
+### Lalbagh Courier Service Live Website Link :
 
-### Hitup Gym Live Website Link :
+###
 
-### https://hitup-build-your-body.web.app
+### About Lalbagh Courier Service :
 
-### About Hitup Gym :
-
-**We have found the best workouts from around the world and put them in one database that you can search by days per week, type of program, and much more! Many workouts accomplish different goals at the same time. For example, a muscle building workout will almost always help build strength at the same time. Choose the goal that is MOST important to you, and the workouts that are shown will be geared more toward your chosen goal. A Split Body part Routine means that you work different body parts on different days. For example, one workout might have you work biceps and chest on one day, then triceps and back on a different day. This is the most common type of workout program.**
+**It is reliable and the label is a trustworthy name to all who have taken, taking and will take the services of this Company. The many years of service to the mass and to the corporates have made it the service for all to take.We balance all the clients in a democratic manner and therefore there is no bias and that has itself encouraged repeat clients with similar wants for services.Due to its presence in every remote pocket throughout this country many have found it to be very convenient to send and receive with ease and harmony and this has tempted all to use Sundarban against many competitors who are in the similar trade.Single point of contact for the many services. It is catering to multiple services from a one point and that also includes its own logistics fleet.**
 
 #### Most Attractive, Wanted Features and Functionality Of Our Website :
 
 **Instructional Videos :**
-_Fitness Care trainers provide our printable calendars, thats give you the means to stay organized & motivated through each program. Cross of one day at a time and see how far you've come!_
+_It is reliable and the label is a trustworthy name to all who have taken, taking and will take the services of this Company. The many years of service to the mass and to the corporate have made it the service for all to take._
 
-**Training Calendars 'Come Soon' :**
-_No training program is complete solution without a great meal plan. Our Fitness care trainers provide a shopping lists, recipes, and even a great examples of weekly meal plans so._
-
-**Free WiFi & Mobile App :**
-_Choose your perfect work-out plan and track your workout with the press of a mobile app button, when ever u want. Finess Care up-coming mobile apps will make fitness fit in palm hand._
+**Mobile App :**
+_Choose your perfect delivery plan and track your workout with the press of a mobile app button, when ever u want._
 
 **Community Support :**
-_Find friends and like-minded fitness buffs on BodySpace! With an army of supporters behind you, you'll never feel like you're training alone. Instructions to every exercise so you never walk._
-
-**Gym Instruments :**
-_We are supplying all type of Gym instruments in very reasonable price. Please collect any Gym instruments as your need for your friends and family_
-
-**Food Supplies :**
-_We have a very nice collection of hygienic food, juice and so on to supply by your demand. Your fitness demand foods are available for here._
+_Find friends and like-minded! With an army of supporters behind you, you'll never feel like you're alone._
+# lalbagh-courier-service-starter
