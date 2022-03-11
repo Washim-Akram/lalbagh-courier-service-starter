@@ -5,7 +5,7 @@ import "./OurServices.css";
 const OurServices = () => {
     const [ourServices, setOurServices] = useState([]);
     useEffect( () => {
-        fetch('http://localhost:5000/services')
+        fetch('https://guarded-dawn-12838.herokuapp.com/services')
         .then(res => res.json())
         .then(data => setOurServices(data));
     } ,[])

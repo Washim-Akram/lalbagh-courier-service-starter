@@ -6,7 +6,7 @@ const ManageService = ({manageService}) => {
     // console.log(manageService);
 
     const handleDelete = (id) => {
-        const url = `http://localhost:5000/services/${id}`
+        const url = `https://guarded-dawn-12838.herokuapp.com/services/${id}`
         fetch(url, {
             method: 'DELETE'
         })
